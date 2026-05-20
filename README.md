@@ -25,6 +25,22 @@ looking for is not on my short list, take a peek at the full
 ### 3d vision
 
 <p align="left">
+    <a href="https://arxiv.org/abs/2511.16624" title="SAM 3D: 3Dfy Anything in Images">
+        <strong>🏆 SAM 3D: 3Dfy Anything in Images</strong>
+    </a>
+    <br/>
+    Jianing Yang, Georgia Gkioxari, Anushka Sagar, Aohan Lin, Bowen Song, Bowen Zhang, Fu-Jen Chu, Hao Tang, Jiawei Liu, Jitendra Malik, Matt Feiszli, Michelle Guo, Pierre Gleize, Alexander Sax, Thibaut Hardin, Weiyao Wang, Xiang Li, Xiaodong Wang, Xingyu Chen, Ziqi Ma, Piotr Dollar, Kevin J Liang
+    <br/>
+    [<a href="https://arxiv.org/abs/2511.16624">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-objects">code</a>] [<a href="https://www.youtube.com/watch?v=B7PZuM55ayc">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 13:00-14:15 Oral Session 2A #5 | Fri 5 Jun 16:00-18:00 Poster Session 2 #5
+</p>
+<br/>
+
+
+<p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38552.png?t=1779278305.871803" title="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates">
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38552.png" alt="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates" width="400px" align="left" />
     </a>
@@ -173,6 +189,26 @@ looking for is not on my short list, take a peek at the full
 ### object tracking
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38132.png?t=1779014745.6748493" title="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence">
+        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38132.png?t=1779014745.6748493" alt="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2511.20886" title="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence">
+        <strong>🔥 V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence</strong>
+    </a>
+    <br/>
+    Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
+    <br/>
+    [<a href="https://arxiv.org/abs/2511.20886">paper</a>] [<a href="https://github.com/jaychempan/V2-SAM">code</a>] [<a href="https://www.youtube.com/watch?v=ieQ2AW3k0W4">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Object Tracking
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 11:45-13:45 Poster Session 3 #248
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36388.png?t=1778878578.5070403" title="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling">
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36388.png" alt="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling" width="400px" align="left" />
     </a>
@@ -213,6 +249,22 @@ looking for is not on my short list, take a peek at the full
 <br/>
 
 ### pose estimation
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2602.15989" title="SAM 3D Body: Robust Full-Body Human Mesh Recovery">
+        <strong>🏆 SAM 3D Body: Robust Full-Body Human Mesh Recovery</strong>
+    </a>
+    <br/>
+    Xitong Yang, Devansh Kukreja, Don Pinkus, Anushka Sagar, Taosha Fan, Jinhyung Park, Soyong Shin, Jinkun Cao, Jiawei Liu, Nicolas Ugrinovic, Matt Feiszli, Jitendra Malik, Piotr Dollar, Kris Kitani
+    <br/>
+    [<a href="https://arxiv.org/abs/2602.15989">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-body">code</a>] [<a href="https://www.youtube.com/watch?v=B7PZuM55ayc">video</a>] [<a href="https://huggingface.co/spaces/akhaliq/sam-3d-body">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Pose Estimation
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 13:00-14:15 Oral Session 2A #4 | Fri 5 Jun 16:00-18:00 Poster Session 2 #4
+</p>
+<br/>
+
 
 <p align="left">
     <a href="https://arxiv.org/abs/2602.05755" title="FMPose3D: monocular 3D pose estimation via flow matching">
