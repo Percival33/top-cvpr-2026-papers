@@ -26,7 +26,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38552.png?t=1779278305.871803" title="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38552.png?t=1779278305.871803" alt="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38552.png" alt="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2602.17134" title="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates">
         <strong>🔥 B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates</strong>
@@ -46,7 +46,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38780.png?t=1779273919.6110525" title="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38780.png?t=1779273919.6110525" alt="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38780.png" alt="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2512.08924" title="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time">
         <strong>🔥 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time</strong>
@@ -82,7 +82,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38483.png?t=1778703289.4757984" title="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38483.png?t=1778703289.4757984" alt="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38483.png" alt="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2602.20160" title="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction">
         <strong>🔥 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction</strong>
@@ -153,7 +153,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39842.png?t=1778984010.97555" title="Does YOLO Really Need to See Every Training Image in Every Epoch?">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39842.png?t=1778984010.97555" alt="Does YOLO Really Need to See Every Training Image in Every Epoch?" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39842.png" alt="Does YOLO Really Need to See Every Training Image in Every Epoch?" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2603.17684" title="Does YOLO Really Need to See Every Training Image in Every Epoch?">
         <strong>📢 Does YOLO Really Need to See Every Training Image in Every Epoch?</strong>
@@ -174,7 +174,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36388.png?t=1778878578.5070403" title="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36388.png?t=1778878578.5070403" alt="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36388.png" alt="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2603.12217" title="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling">
         <strong>🔥 Real-World Point Tracking with Verifier-Guided Pseudo-Labeling</strong>
@@ -195,7 +195,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38086.png?t=1778680352.3420095" title="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38086.png?t=1778680352.3420095" alt="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38086.png" alt="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2512.01738" title="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention">
         <strong>🔥 MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention</strong>
