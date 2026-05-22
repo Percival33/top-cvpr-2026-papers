@@ -32,7 +32,7 @@ looking for is not on my short list, take a peek at the full
         <strong>🏆 SAM 3D: 3Dfy Anything in Images</strong>
     </a>
     <br/>
-    Jianing Yang, Georgia Gkioxari, Anushka Sagar, Aohan Lin, Bowen Song, Bowen Zhang, Fu-Jen Chu, Hao Tang, Jiawei Liu, Jitendra Malik, Matt Feiszli, Michelle Guo, Pierre Gleize, Alexander Sax, Thibaut Hardin, Weiyao Wang, Xiang Li, Xiaodong Wang, Xingyu Chen, Ziqi Ma, Piotr Dollar, Kevin J Liang
+    Jianing Yang, Georgia Gkioxari, Anushka Sagar, Aohan Lin, Bowen Song, Bowen Zhang, Fu-Jen Chu, Hao Tang, ...
     <br/>
     [<a href="https://arxiv.org/abs/2511.16624">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-objects">code</a>] [<a href="https://www.youtube.com/watch?v=7Zda9tHhVIg">video</a>]  
     <br/>
@@ -72,7 +72,7 @@ looking for is not on my short list, take a peek at the full
         <strong>🔥 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time</strong>
     </a>
     <br/>
-    Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni, Junyu Xie, Shuyang Sun, Rahul Sukthankar, Joëlle K. Barral, Raia Hadsell, Zoubin Ghahramani, Andrew Zisserman, Junlin Zhang, Mehdi S. M. Sajjadi
+    Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni, Junyu Xie, Shuyang Sun, Rahul Sukthankar, ...
     <br/>
     [<a href="https://arxiv.org/abs/2512.08924">paper</a>]  [<a href="https://www.youtube.com/watch?v=4u5JxhyZ86g">video</a>]  
     <br/>
@@ -85,9 +85,6 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37305.png?t=1779332748.8584213" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
-        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37305.png" alt="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation" width="400px" align="left" />
-    </a>
     <a href="https://arxiv.org/abs/2512.17012" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
         <strong>🔥 4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation</strong>
     </a>
@@ -101,7 +98,6 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #225
 </p>
 <br/>
-<br/>
 
 
 <p align="left">
@@ -112,7 +108,7 @@ looking for is not on my short list, take a peek at the full
         <strong>🔥 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction</strong>
     </a>
     <br/>
-    Chen Wang, Hao Tan, Wang Yifan, Zhiqin Chen, Yuheng Liu, Kalyan Sunkavalli, Sai Bi, Lingjie Liu, Yiwei Hu
+    Chen Wang, Hao Tan, Wang Yifan, Zhiqin Chen, Yuheng Liu, Kalyan Sunkavalli, Sai Bi, Lingjie Liu, ...
     <br/>
     [<a href="https://arxiv.org/abs/2602.20160">paper</a>] [<a href="https://github.com/cwchenwang/tttLRM">code</a>] [<a href="https://www.youtube.com/watch?v=uOlNkq_io4c">video</a>]  
     <br/>
@@ -130,7 +126,7 @@ looking for is not on my short list, take a peek at the full
         <strong>Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation</strong>
     </a>
     <br/>
-    Xin Lin, Meixi Song, Dizhe Zhang, Wenxuan Lu, Haodong Li, Bo Du, Ming-Hsuan Yang, Truong Nguyen, Lu Qi
+    Xin Lin, Meixi Song, Dizhe Zhang, Wenxuan Lu, Haodong Li, Bo Du, Ming-Hsuan Yang, Truong Nguyen, ...
     <br/>
     [<a href="https://arxiv.org/abs/2512.16913">paper</a>] [<a href="https://github.com/Insta360-Research-Team/DAP">code</a>]  [<a href="https://huggingface.co/spaces/Insta360-Research/DAP">demo</a>] 
     <br/>
@@ -204,7 +200,7 @@ looking for is not on my short list, take a peek at the full
         <strong>🔥 V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence</strong>
     </a>
     <br/>
-    Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu
+    Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, ...
     <br/>
     [<a href="https://arxiv.org/abs/2511.20886">paper</a>] [<a href="https://github.com/jaychempan/V2-SAM">code</a>] [<a href="https://www.youtube.com/watch?v=ieQ2AW3k0W4">video</a>]  
     <br/>
@@ -263,7 +259,7 @@ looking for is not on my short list, take a peek at the full
         <strong>🏆 SAM 3D Body: Robust Full-Body Human Mesh Recovery</strong>
     </a>
     <br/>
-    Xitong Yang, Devansh Kukreja, Don Pinkus, Anushka Sagar, Taosha Fan, Jinhyung Park, Soyong Shin, Jinkun Cao, Jiawei Liu, Nicolas Ugrinovic, Matt Feiszli, Jitendra Malik, Piotr Dollar, Kris Kitani
+    Xitong Yang, Devansh Kukreja, Don Pinkus, Anushka Sagar, Taosha Fan, Jinhyung Park, Soyong Shin, Jinkun Cao, ...
     <br/>
     [<a href="https://arxiv.org/abs/2602.15989">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-body">code</a>] [<a href="https://www.youtube.com/watch?v=B7PZuM55ayc">video</a>] [<a href="https://huggingface.co/spaces/akhaliq/sam-3d-body">demo</a>] 
     <br/>
@@ -352,7 +348,7 @@ looking for is not on my short list, take a peek at the full
         <strong>TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</strong>
     </a>
     <br/>
-    Bingyi Cao, Koert Chen, Kevis-Kokitsi Maninis, Kaifeng Chen, Arjun Karpur, Ye Xia, Sahil Dua, Tanmaya Dabral, Guangxing Han, Bohyung Han, Joshua Ainslie, Alex Bewley, Mithun Jacob, Rene Wagner, Washington Ramos, Krzysztof Choromanski, Mojtaba Seyedhosseini, Howard Zhou, Andre Araujo
+    Bingyi Cao, Koert Chen, Kevis-Kokitsi Maninis, Kaifeng Chen, Arjun Karpur, Ye Xia, Sahil Dua, Tanmaya Dabral, ...
     <br/>
     [<a href="https://arxiv.org/abs/2604.12012">paper</a>] [<a href="https://github.com/google-deepmind/tips">code</a>] [<a href="https://www.youtube.com/watch?v=vERsVd58ta0">video</a>] [<a href="https://huggingface.co/spaces/google/TIPSv2">demo</a>] 
     <br/>

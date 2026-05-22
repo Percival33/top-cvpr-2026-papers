@@ -94,12 +94,21 @@ def save_lines_to_file(path: str, lines: List[str]) -> None:
             f.write("%s\n" % line)
 
 
+MAX_AUTHORS = 8
+
+def truncate_authors(authors: str) -> str:
+    names = [name.strip() for name in authors.split(",")]
+    if len(names) <= MAX_AUTHORS:
+        return authors
+    return ", ".join(names[:MAX_AUTHORS]) + ", ..."
+
+
 def format_entry(entry: Series) -> str:
     """
     Formats entry into Markdown table row, ensuring dates are formatted correctly.
     """
     title = entry.loc[TITLE_COLUMN_NAME]
-    authors = entry.loc[AUTHORS_COLUMN_NAME]
+    authors = truncate_authors(entry.loc[AUTHORS_COLUMN_NAME])
     topics = entry.loc[TOPIC_COLUMN_NAME]
     session = entry.loc[SESSION_COLUMN_NAME]
     poster = entry.loc[POSTER_COLUMN_NAME]
