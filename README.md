@@ -25,18 +25,22 @@ looking for is not on my short list, take a peek at the full
 ### 3d vision
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39508.png?t=1779316577.0970874" title="SAM 3D: 3Dfy Anything in Images">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39508.png" alt="SAM 3D: 3Dfy Anything in Images" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2511.16624" title="SAM 3D: 3Dfy Anything in Images">
         <strong>🏆 SAM 3D: 3Dfy Anything in Images</strong>
     </a>
     <br/>
     Jianing Yang, Georgia Gkioxari, Anushka Sagar, Aohan Lin, Bowen Song, Bowen Zhang, Fu-Jen Chu, Hao Tang, Jiawei Liu, Jitendra Malik, Matt Feiszli, Michelle Guo, Pierre Gleize, Alexander Sax, Thibaut Hardin, Weiyao Wang, Xiang Li, Xiaodong Wang, Xingyu Chen, Ziqi Ma, Piotr Dollar, Kevin J Liang
     <br/>
-    [<a href="https://arxiv.org/abs/2511.16624">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-objects">code</a>] [<a href="https://www.youtube.com/watch?v=B7PZuM55ayc">video</a>]  
+    [<a href="https://arxiv.org/abs/2511.16624">paper</a>] [<a href="https://github.com/facebookresearch/sam-3d-objects">code</a>] [<a href="https://www.youtube.com/watch?v=7Zda9tHhVIg">video</a>]  
     <br/>
     <strong>Topic:</strong> 3D Vision
     <br/>
     <strong>Session:</strong> Fri 5 Jun 13:00-14:15 Oral Session 2A #5 | Fri 5 Jun 16:00-18:00 Poster Session 2 #5
 </p>
+<br/>
 <br/>
 
 
@@ -50,7 +54,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Hiromichi Kamata, Samuel Arthur Munro, Fuminori Homma
     <br/>
-    [<a href="https://arxiv.org/abs/2602.17134">paper</a>]    
+    [<a href="https://arxiv.org/abs/2602.17134">paper</a>]  [<a href="https://www.youtube.com/watch?v=w-bjx9la2WY">video</a>]  
     <br/>
     <strong>Topic:</strong> 3D Vision
     <br/>
@@ -81,18 +85,22 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37305.png?t=1779332748.8584213" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37305.png" alt="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2512.17012" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
         <strong>🔥 4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation</strong>
     </a>
     <br/>
     Chiao-An Yang, Ryo Hachiuma, Sifei Liu, Subhashree Radhakrishnan, Raymond A. Yeh, Yu-Chiang Frank Wang, Min-Hung Chen
     <br/>
-    [<a href="https://arxiv.org/abs/2512.17012">paper</a>] [<a href="https://github.com/NVlabs/4D-RGPT">code</a>]  [<a href="https://huggingface.co/datasets/nvidia/R4D-Bench">demo</a>] 
+    [<a href="https://arxiv.org/abs/2512.17012">paper</a>] [<a href="https://github.com/NVlabs/4D-RGPT">code</a>] [<a href="https://www.youtube.com/watch?v=Q4WCHmUDbBM">video</a>] [<a href="https://huggingface.co/datasets/nvidia/R4D-Bench">demo</a>] 
     <br/>
     <strong>Topic:</strong> 3D Vision
     <br/>
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #225
 </p>
+<br/>
 <br/>
 
 
@@ -157,7 +165,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Tommie Kerssies, Gabriele Berton, Ju He, Qihang Yu, Wufei Ma, Daan de Geus, Gijs Dubbelman, Liang-Chieh Chen
     <br/>
-    [<a href="https://arxiv.org/abs/2604.04913">paper</a>] [<a href="https://github.com/amazon-far/deltatok">code</a>]  [<a href="https://huggingface.co/collections/Amazon-FAR/deltatok">demo</a>] 
+    [<a href="https://arxiv.org/abs/2604.04913">paper</a>] [<a href="https://github.com/amazon-far/deltatok">code</a>] [<a href="https://www.youtube.com/watch?v=D6yW9J8_HvE">video</a>] [<a href="https://huggingface.co/collections/Amazon-FAR/deltatok">demo</a>] 
     <br/>
     <strong>Topic:</strong> Generative Models
     <br/>
@@ -190,7 +198,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38132.png?t=1779014745.6748493" title="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38132.png?t=1779014745.6748493" alt="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence" width="400px" align="left" />
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38132.png" alt="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2511.20886" title="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence">
         <strong>🔥 V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence</strong>
@@ -267,18 +275,22 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38362.png?t=1779290919.2415" title="FMPose3D: monocular 3D pose estimation via flow matching">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38362.png" alt="FMPose3D: monocular 3D pose estimation via flow matching" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2602.05755" title="FMPose3D: monocular 3D pose estimation via flow matching">
         <strong>FMPose3D: monocular 3D pose estimation via flow matching</strong>
     </a>
     <br/>
     Ti Wang, Xiaohang Yu, Mackenzie Weygandt Mathis
     <br/>
-    [<a href="https://arxiv.org/abs/2602.05755">paper</a>]    
+    [<a href="https://arxiv.org/abs/2602.05755">paper</a>]  [<a href="https://www.youtube.com/watch?v=_aUL-QLqeJM">video</a>]  
     <br/>
     <strong>Topic:</strong> Pose Estimation
     <br/>
     <strong>Session:</strong> Sat 6 Jun 11:45-13:45 Poster Session 3 #40
 </p>
+<br/>
 <br/>
 
 ### segmentation
@@ -322,7 +334,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     Claudia Cuttano, Gabriele Trivigno, Christoph Reich, Daniel Cremers, Carlo Masone, Stefan Roth
     <br/>
-    [<a href="https://arxiv.org/abs/2603.28480">paper</a>] [<a href="https://github.com/visinf/INSID3">code</a>]   
+    [<a href="https://arxiv.org/abs/2603.28480">paper</a>] [<a href="https://github.com/visinf/INSID3">code</a>] [<a href="https://www.youtube.com/watch?v=J5KqA3rnUTE">video</a>]  
     <br/>
     <strong>Topic:</strong> Segmentation
     <br/>
@@ -333,18 +345,22 @@ looking for is not on my short list, take a peek at the full
 ### vision-language models
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36664.png?t=1779392281.6248565" title="TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36664.png" alt="TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2604.12012" title="TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment">
         <strong>TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment</strong>
     </a>
     <br/>
     Bingyi Cao, Koert Chen, Kevis-Kokitsi Maninis, Kaifeng Chen, Arjun Karpur, Ye Xia, Sahil Dua, Tanmaya Dabral, Guangxing Han, Bohyung Han, Joshua Ainslie, Alex Bewley, Mithun Jacob, Rene Wagner, Washington Ramos, Krzysztof Choromanski, Mojtaba Seyedhosseini, Howard Zhou, Andre Araujo
     <br/>
-    [<a href="https://arxiv.org/abs/2604.12012">paper</a>] [<a href="https://github.com/google-deepmind/tips">code</a>]  [<a href="https://huggingface.co/spaces/google/TIPSv2">demo</a>] 
+    [<a href="https://arxiv.org/abs/2604.12012">paper</a>] [<a href="https://github.com/google-deepmind/tips">code</a>] [<a href="https://www.youtube.com/watch?v=vERsVd58ta0">video</a>] [<a href="https://huggingface.co/spaces/google/TIPSv2">demo</a>] 
     <br/>
     <strong>Topic:</strong> Vision-Language Models
     <br/>
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #65
 </p>
+<br/>
 <br/>
 
 <!--- AUTOGENERATED_PAPERS_LIST -->
