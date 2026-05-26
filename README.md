@@ -121,6 +121,66 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37717.png?t=1779382307.4573128" title="MuM: Multi-View Masked Image Modeling for 3D Vision">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37717.png" alt="MuM: Multi-View Masked Image Modeling for 3D Vision" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2511.17309" title="MuM: Multi-View Masked Image Modeling for 3D Vision">
+        <strong>MuM: Multi-View Masked Image Modeling for 3D Vision</strong>
+    </a>
+    <br/>
+    David Nordström, Johan Edstedt, Fredrik Kahl, Georg Bökman
+    <br/>
+    [<a href="https://arxiv.org/abs/2511.17309">paper</a>] [<a href="https://github.com/davnords/MuM">code</a>] [<a href="https://www.youtube.com/watch?v=poPwO2Wz-rY">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 16:45-18:45 Poster Session 4 #28
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38436.png?t=1779529020.490129" title="Emergent Outlier View Rejection in Visual Geometry Grounded Transformers">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38436.png" alt="Emergent Outlier View Rejection in Visual Geometry Grounded Transformers" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2512.04012" title="Emergent Outlier View Rejection in Visual Geometry Grounded Transformers">
+        <strong>Emergent Outlier View Rejection in Visual Geometry Grounded Transformers</strong>
+    </a>
+    <br/>
+    Jisang Han, Sunghwan Hong, Jaewoo Jung, Wooseok Jang, Honggyu An, Qianqian Wang, Seungryong Kim, Chen Feng
+    <br/>
+    [<a href="https://arxiv.org/abs/2512.04012">paper</a>] [<a href="https://github.com/cvlab-kaist/RobustVGGT">code</a>] [<a href="https://www.youtube.com/watch?v=-eaSEyiGgP8">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Fri 5 Jun 10:45-12:45 Poster Session 1 #41
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36715.png?t=1779240845.570811" title="AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36715.png" alt="AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2604.09445" title="AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization">
+        <strong>🔥 AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization</strong>
+    </a>
+    <br/>
+    Mohammad Omama, Gabriele Berton, Eric Foxlin, Yelin Kim
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.09445">paper</a>]    
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 16:45-18:45 Poster Session 4 #467
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38483.png?t=1778703289.4757984" title="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction">
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38483.png" alt="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction" width="400px" align="left" />
     </a>
@@ -171,6 +231,42 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Fri 5 Jun 16:00-18:00 Poster Session 2 #366
 </p>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2511.13720" title="Back to Basics: Let Denoising Generative Models Denoise">
+        <strong>Back to Basics: Let Denoising Generative Models Denoise</strong>
+    </a>
+    <br/>
+    Tianhong Li, Kaiming He
+    <br/>
+    [<a href="https://arxiv.org/abs/2511.13720">paper</a>] [<a href="https://github.com/LTH14/JiT">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Generative Models
+    <br/>
+    <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #700
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36668.png?t=1779199620.586524" title="MacTok: Robust Continuous Tokenization for Image Generation">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36668.png" alt="MacTok: Robust Continuous Tokenization for Image Generation" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2603.29634" title="MacTok: Robust Continuous Tokenization for Image Generation">
+        <strong>🔥 MacTok: Robust Continuous Tokenization for Image Generation</strong>
+    </a>
+    <br/>
+    Hengyu Zeng, Xin Gao, Guanghao Li, Yuxiang Yan, Jiaoyang Ruan, Junpeng Ma, Haoyu Albert Wang, Jian Pu
+    <br/>
+    [<a href="https://arxiv.org/abs/2603.29634">paper</a>]  [<a href="https://www.youtube.com/watch?v=w5uNGlWy778">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Generative Models
+    <br/>
+    <strong>Session:</strong> Sun 7 Jun 15:30-17:30 Poster Session 6 #672
+</p>
+<br/>
 <br/>
 
 
