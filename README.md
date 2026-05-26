@@ -101,6 +101,26 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/39357.png?t=1779383580.1341395" title="Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39357.png" alt="Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2604.26488" title="Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners">
+        <strong>📢 Featurising Pixels from Dynamic 3D Scenes with Linear In-Context Learners</strong>
+    </a>
+    <br/>
+    Nikita Araslanov, Martin Sundermeyer, Hidenobu Matsuki, David Joseph Tan, Federico Tombari
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.26488">paper</a>]  [<a href="https://www.youtube.com/watch?v=gLIRCCtzOyI">video</a>]  
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4A: Geometric Understanding #2 | Sat 6 Jun 16:45-18:45 Poster Session 4 #2
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
     <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38483.png?t=1778703289.4757984" title="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction">
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38483.png" alt="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction" width="400px" align="left" />
     </a>
@@ -155,6 +175,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/38021.png?t=1779748078.4763258" title="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38021.png" alt="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2604.04913" title="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens">
         <strong>🔥 A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens</strong>
     </a>
@@ -167,6 +190,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sat 6 Jun 16:45-18:45 Poster Session 4 #611
 </p>
+<br/>
 <br/>
 
 ### object detection
@@ -255,6 +279,9 @@ looking for is not on my short list, take a peek at the full
 ### pose estimation
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37714.png?t=1779474509.2077193" title="SAM 3D Body: Robust Full-Body Human Mesh Recovery">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37714.png" alt="SAM 3D Body: Robust Full-Body Human Mesh Recovery" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2602.15989" title="SAM 3D Body: Robust Full-Body Human Mesh Recovery">
         <strong>🏆 SAM 3D Body: Robust Full-Body Human Mesh Recovery</strong>
     </a>
@@ -267,6 +294,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Fri 5 Jun 13:00-14:15 Oral Session 2A #4 | Fri 5 Jun 16:00-18:00 Poster Session 2 #4
 </p>
+<br/>
 <br/>
 
 
@@ -334,8 +362,60 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Topic:</strong> Segmentation
     <br/>
-    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #1
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #1 | Sat 6 Jun 16:45-18:45 Poster Session 4 #19
 </p>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2511.15622" title="The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification">
+        <strong>📢 The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification</strong>
+    </a>
+    <br/>
+    Dante Francisco Wasmuht, Otto Brookes, Maximillian Schall, Pablo Palencia, Chris Beirne, Tilo Burghardt, Majid Mirmehdi, Hjalmar Kühl, ...
+    <br/>
+    [<a href="https://arxiv.org/abs/2511.15622">paper</a>]   [<a href="https://huggingface.co/datasets/facebook/SA-FARI">demo</a>] 
+    <br/>
+    <strong>Topic:</strong> Segmentation
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #5 | Sat 6 Jun 16:45-18:45 Poster Session 4 #23
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://arxiv.org/abs/2604.18267" title="MARCO: Navigating the Unseen Space of Semantic Correspondence">
+        <strong>📢 MARCO: Navigating the Unseen Space of Semantic Correspondence</strong>
+    </a>
+    <br/>
+    Claudia Cuttano, Gabriele Trivigno, Carlo Masone, Stefan Roth
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.18267">paper</a>] [<a href="https://github.com/visinf/MARCO">code</a>] [<a href="https://www.youtube.com/watch?v=paYaAh-fkYg">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #2 | Sat 6 Jun 16:45-18:45 Poster Session 4 #20
+</p>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37369.png?t=1779154215.1613407" title="VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37369.png" alt="VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2604.13596" title="VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation">
+        <strong>📢 VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation</strong>
+    </a>
+    <br/>
+    Yulu Gao, Bohao Zhang, Zongheng Tang, Jitong Liao, Wenjun Wu, Si Liu
+    <br/>
+    [<a href="https://arxiv.org/abs/2604.13596">paper</a>]  [<a href="https://www.youtube.com/watch?v=56TSdPqQtgA">video</a>]  
+    <br/>
+    <strong>Topic:</strong> Segmentation
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #6 | Sat 6 Jun 16:45-18:45 Poster Session 4 #24
+</p>
+<br/>
 <br/>
 
 ### vision-language models
