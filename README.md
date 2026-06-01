@@ -49,7 +49,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38552.png" alt="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2602.17134" title="B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates">
-        <strong>🔥 B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates</strong>
+        <strong>🏆 B³-Seg: Camera-Free, Training-Free 3DGS Segmentation via Analytic EIG and Beta-Bernoulli Bayesian Updates</strong>
     </a>
     <br/>
     Hiromichi Kamata, Samuel Arthur Munro, Fuminori Homma
@@ -69,7 +69,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38780.png" alt="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2512.08924" title="Efficiently Reconstructing Dynamic Scenes One D4RT at a Time">
-        <strong>🔥 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time</strong>
+        <strong>🏆 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time</strong>
     </a>
     <br/>
     Chuhan Zhang, Guillaume Le Moing, Skanda Koppula, Ignacio Rocco, Liliane Momeni, Junyu Xie, Shuyang Sun, Rahul Sukthankar, ...
@@ -85,8 +85,11 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37305.png?t=1780245180.5732613" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37305.png" alt="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2512.17012" title="4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation">
-        <strong>🔥 4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation</strong>
+        <strong>🏆 4D-RGPT: Toward Region-level 4D Understanding via Perceptual Distillation</strong>
     </a>
     <br/>
     Chiao-An Yang, Ryo Hachiuma, Sifei Liu, Subhashree Radhakrishnan, Raymond A. Yeh, Yu-Chiang Frank Wang, Min-Hung Chen
@@ -97,6 +100,7 @@ looking for is not on my short list, take a peek at the full
     <br/>
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #225
 </p>
+<br/>
 <br/>
 
 
@@ -165,7 +169,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36715.png" alt="AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2604.09445" title="AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization">
-        <strong>🔥 AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization</strong>
+        <strong>🏆 AsymLoc: Towards Asymmetric Feature Matching for Efficient Visual Localization</strong>
     </a>
     <br/>
     Mohammad Omama, Gabriele Berton, Eric Foxlin, Yelin Kim
@@ -185,7 +189,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38483.png" alt="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2602.20160" title="tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction">
-        <strong>🔥 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction</strong>
+        <strong>🏆 tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction</strong>
     </a>
     <br/>
     Chen Wang, Hao Tan, Wang Yifan, Zhiqin Chen, Yuheng Liu, Kalyan Sunkavalli, Sai Bi, Lingjie Liu, ...
@@ -195,6 +199,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> 3D Vision
     <br/>
     <strong>Session:</strong> Sun 7 Jun 15:30-17:30 Poster Session 6 #39
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/37185.png?t=1780055760.0777047" title="ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37185.png" alt="ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2601.16148" title="ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion">
+        <strong>ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion</strong>
+    </a>
+    <br/>
+    Remy Sabathier, David Novotny, Niloy J. Mitra, Tom Monnier
+    <br/>
+    [<a href="https://arxiv.org/abs/2601.16148">paper</a>] [<a href="https://github.com/facebookresearch/actionmesh">code</a>] [<a href="https://www.youtube.com/watch?v=GKpvl8tzpWM">video</a>] [<a href="https://huggingface.co/spaces/facebook/ActionMesh">demo</a>] [<a href="https://colab.research.google.com/github/facebookresearch/ActionMesh/blob/main/notebooks/ActionMesh.ipynb">colab</a>]
+    <br/>
+    <strong>Topic:</strong> 3D Vision
+    <br/>
+    <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #530
 </p>
 <br/>
 <br/>
@@ -235,6 +259,9 @@ looking for is not on my short list, take a peek at the full
 
 
 <p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36713.png?t=1780267306.229406" title="Back to Basics: Let Denoising Generative Models Denoise">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36713.png" alt="Back to Basics: Let Denoising Generative Models Denoise" width="400px" align="left" />
+    </a>
     <a href="https://arxiv.org/abs/2511.13720" title="Back to Basics: Let Denoising Generative Models Denoise">
         <strong>Back to Basics: Let Denoising Generative Models Denoise</strong>
     </a>
@@ -248,6 +275,7 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #700
 </p>
 <br/>
+<br/>
 
 
 <p align="left">
@@ -255,7 +283,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36668.png" alt="MacTok: Robust Continuous Tokenization for Image Generation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2603.29634" title="MacTok: Robust Continuous Tokenization for Image Generation">
-        <strong>🔥 MacTok: Robust Continuous Tokenization for Image Generation</strong>
+        <strong>🏆 MacTok: Robust Continuous Tokenization for Image Generation</strong>
     </a>
     <br/>
     Hengyu Zeng, Xin Gao, Guanghao Li, Yuxiang Yan, Jiaoyang Ruan, Junpeng Ma, Haoyu Albert Wang, Jian Pu
@@ -275,7 +303,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38021.png" alt="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2604.04913" title="A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens">
-        <strong>🔥 A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens</strong>
+        <strong>🏆 A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens</strong>
     </a>
     <br/>
     Tommie Kerssies, Gabriele Berton, Ju He, Qihang Yu, Wufei Ma, Daan de Geus, Gijs Dubbelman, Liang-Chieh Chen
@@ -296,7 +324,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/39842.png" alt="Does YOLO Really Need to See Every Training Image in Every Epoch?" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2603.17684" title="Does YOLO Really Need to See Every Training Image in Every Epoch?">
-        <strong>📢 Does YOLO Really Need to See Every Training Image in Every Epoch?</strong>
+        <strong>Does YOLO Really Need to See Every Training Image in Every Epoch?</strong>
     </a>
     <br/>
     Xingxing Xie, Jiahua Dong, Junwei Han, Gong Cheng
@@ -317,7 +345,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38132.png" alt="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2511.20886" title="V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence">
-        <strong>🔥 V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence</strong>
+        <strong>🏆 V²-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence</strong>
     </a>
     <br/>
     Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, ...
@@ -337,7 +365,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36388.png" alt="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2603.12217" title="Real-World Point Tracking with Verifier-Guided Pseudo-Labeling">
-        <strong>🔥 Real-World Point Tracking with Verifier-Guided Pseudo-Labeling</strong>
+        <strong>🏆 Real-World Point Tracking with Verifier-Guided Pseudo-Labeling</strong>
     </a>
     <br/>
     Görkay Aydemir, Fatma Güney, Weidi Xie
@@ -358,7 +386,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/38086.png" alt="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2512.01738" title="MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention">
-        <strong>🔥 MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention</strong>
+        <strong>🏆 MSPT: Efficient Large-Scale Physical Modeling via Parallelized Multi-Scale Attention</strong>
     </a>
     <br/>
     Pedro M. P. Curvo, Jan-Willem van de Meent, Maksim Zhdanov
@@ -433,7 +461,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://arxiv.org/abs/2512.11782" title="MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator">
-        <strong>MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator</strong>
+        <strong>🏆 MatAnyone 2: Scaling Video Matting via a Learned Quality Evaluator</strong>
     </a>
     <br/>
     Peiqing Yang, Shangchen Zhou, Kai Hao, Qingyi Tao
@@ -465,7 +493,7 @@ looking for is not on my short list, take a peek at the full
 
 <p align="left">
     <a href="https://arxiv.org/abs/2511.15622" title="The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification">
-        <strong>📢 The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification</strong>
+        <strong>🏆 The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification</strong>
     </a>
     <br/>
     Dante Francisco Wasmuht, Otto Brookes, Maximillian Schall, Pablo Palencia, Chris Beirne, Tilo Burghardt, Majid Mirmehdi, Hjalmar Kühl, ...
@@ -500,7 +528,7 @@ looking for is not on my short list, take a peek at the full
         <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/37369.png" alt="VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation" width="400px" align="left" />
     </a>
     <a href="https://arxiv.org/abs/2604.13596" title="VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation">
-        <strong>📢 VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation</strong>
+        <strong>🏆 VGGT-Segmentor: Geometry-Enhanced Cross-View Segmentation</strong>
     </a>
     <br/>
     Yulu Gao, Bohao Zhang, Zongheng Tang, Jitong Liao, Wenjun Wu, Si Liu
@@ -510,6 +538,26 @@ looking for is not on my short list, take a peek at the full
     <strong>Topic:</strong> Segmentation
     <br/>
     <strong>Session:</strong> Sat 6 Jun 14:00-15:15 Oral Session 4D: Visual Segmentation #6 | Sat 6 Jun 16:45-18:45 Poster Session 4 #24
+</p>
+<br/>
+<br/>
+
+
+<p align="left">
+    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36308.png?t=1780063847.0362813" title="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?">
+        <img src="https://storage.googleapis.com/com-roboflow-marketing/cvpr-2026-posters/36308.png" alt="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?" width="400px" align="left" />
+    </a>
+    <a href="https://arxiv.org/abs/2602.23339" title="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?">
+        <strong>🏆 Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?</strong>
+    </a>
+    <br/>
+    Tilemachos Aravanis, Vladan Stojnic, Bill Psomas, Nikos Komodakis, Giorgos Tolias
+    <br/>
+    [<a href="https://arxiv.org/abs/2602.23339">paper</a>] [<a href="https://github.com/TilemahosAravanis/Retrieve-and-Segment">code</a>]   
+    <br/>
+    <strong>Topic:</strong> Segmentation
+    <br/>
+    <strong>Session:</strong> Sat 6 Jun 16:45-18:45 Poster Session 4 #578
 </p>
 <br/>
 <br/>
@@ -533,24 +581,6 @@ looking for is not on my short list, take a peek at the full
     <strong>Session:</strong> Sun 7 Jun 11:45-13:45 Poster Session 5 #65
 </p>
 <br/>
-<br/>
-
-<p align="left">
-    <a href="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36308.png?t=1780063847.0362813" title="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?">
-        <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202026/36308.png?t=1780063847.0362813" alt="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?" width="400px" align="left" />
-    </a>
-    <a href="https://arxiv.org/abs/2602.23339" title="Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?">
-        <strong>🔥 Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?</strong>
-    </a>
-    <br/>
-    Tilemachos Aravanis, Vladan Stojnić, Bill Psomas, Nikos Komodakis, Giorgos Tolias
-    <br/>
-    [<a href="https://arxiv.org/abs/2602.23339">paper</a>] [<a href="https://github.com/TilemahosAravanis/Retrieve-and-Segment">code</a>] [<a href="https://vrg.fel.cvut.cz/rns/">project page</a>]
-    <br/>
-    <strong>Topic:</strong> Vision-Language Models
-    <br/>
-    <strong>Session:</strong> Sat 6 Jun 16:45–18:45 Poster Session 4 #578
-</p>
 <br/>
 
 <!--- AUTOGENERATED_PAPERS_LIST -->
